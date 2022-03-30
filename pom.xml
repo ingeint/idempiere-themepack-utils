@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.idempiere</groupId>
 		<artifactId>org.idempiere.parent</artifactId>
-		<version>${revision}</version>
+		<version>9.0.0.qualifier</version>
 		<relativePath>../../../idempiere-release/idempiere-9/idempiere/org.idempiere.parent/pom.xml</relativePath>
 	</parent>
 	<artifactId>com.anozimada.idempiere.themepack.utils</artifactId>
