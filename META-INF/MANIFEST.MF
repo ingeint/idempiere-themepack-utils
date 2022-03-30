@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Theme Pack Utils
 Bundle-SymbolicName: com.anozimada.idempiere.themepack.utils
-Bundle-Version: 9.0.0.qualifer
+Bundle-Version: 9.0.0.qualifier
 Bundle-Vendor: ANOZIMADA
 Automatic-Module-Name: com.anozimada.idempiere.themepack.utils
 Bundle-RequiredExecutionEnvironment: JavaSE-11
